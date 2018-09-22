@@ -1,0 +1,19 @@
+{
+  "name": "gg-nodejsangular",
+  "version": "1.0.0",
+  "description": "Node JS Angular AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luwi083191/GG-NodeJSAngular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luwi083191/GG-NodeJSAngular/issues"
+  },
+  "homepage": "https://github.com/Luwi083191/GG-NodeJSAngular#readme"
+}
